@@ -5,7 +5,10 @@
 ## SDK & Tools
 
 * [Cardano-Web3.js](sdk-and-tools/cardano-web3.js.md)
-* [Ray Graph](sdk-and-tools/ray-graph.md)
+
+## Services
+
+* [Ray Graph](services/ray-graph.md)
 
 ## Smart Contracts
 
