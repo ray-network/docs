@@ -8,11 +8,11 @@
 
 ## Services
 
-* [Ray Graph](services/ray-graph.md)
+* [RayGraph](services/raygraph.md)
+* [RayData](services/raydata.md)
 
 ## Smart Contracts
 
-* [Ray Swap](smart-contracts/ray-swap.md)
-* [Ray Kickstart](smart-contracts/ray-kickstart.md)
-* [Ray NFT](smart-contracts/ray-nft.md)
-
+* [RaySwap](smart-contracts/rayswap.md)
+* [RayPad](smart-contracts/raypad.md)
+* [Minterr](smart-contracts/minterr.md)
