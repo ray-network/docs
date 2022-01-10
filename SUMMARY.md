@@ -4,7 +4,7 @@
 
 ## SDK & Tools
 
-* [Cardano-Web3.js](sdk-and-tools/cardano-web3.js.md)
+* [CardanoWeb3.js](sdk-and-tools/cardanoweb3.js.md)
 
 ## Services
 
