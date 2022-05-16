@@ -6,13 +6,10 @@
 
 * [CardanoWeb3.js](sdk-and-tools/cardanoweb3.js.md)
 
-## Services
+## DApps
 
-* [RayGraph](services/raygraph.md)
-* [RayData](services/raydata.md)
-
-## Smart Contracts
-
-* [RaySwap](smart-contracts/rayswap.md)
-* [RayPad](smart-contracts/raypad.md)
-* [Minterr](smart-contracts/minterr.md)
+* [RaySwap](dapps/rayswap.md)
+* [RayPad](dapps/raypad.md)
+* [RayGraph](dapps/raygraph.md)
+* [RayData](dapps/raydata.md)
+* [Minterr.io](dapps/minterr.md)
