@@ -8,8 +8,12 @@
 
 ## DApps
 
-* [RaySwap](dapps/rayswap.md)
-* [RayPad](dapps/raypad.md)
-* [RayGraph](dapps/raygraph.md)
-* [RayData](dapps/raydata.md)
-* [Minterr.io](dapps/minterr.md)
+* [RayWallet](dapps/raywallet.md)
+* [RayStake](dapps/raystake.md)
+* [RaySwap](smart-contracts/rayswap.md)
+* [RayPad](smart-contracts/raypad.md)
+* [RayGraph](services/raygraph.md)
+* [RayData](services/raydata.md)
+* [Minterr.io](dapps/minterr.io.md)
+* [Pigz.io](dapps/pigz.io.md)
+* [Cardanolist.io](dapps/cardanolist.io.md)
